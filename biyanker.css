@@ -1,0 +1,35 @@
+ body {
+    background-image: url("/home/quirky/biyanker's work/dc.jpg");
+    background-size: 1550px;
+    background-repeat: no-repeat;
+    background-color: grey;
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+
+}
+
+p {
+        font-style: salb serfs;
+    font-family: verdana;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    
+}
+
+
+
+li{
+    display: inline;
+}
+
+#gallery{
+
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
